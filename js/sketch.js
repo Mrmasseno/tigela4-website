@@ -102,7 +102,7 @@ function draw() {
 function mousePressed() {
     if(mouseX> bolas[int(width / espacamento) - 3][1].x - diam/2&& mouseX<bolas[int(width / espacamento)-1][1].x +diam/2) {
         if (mouseY < bolas[1][int(height / espacamento) - 1].y + diam / 2&&mouseY>bolas[1][int(height / espacamento) - 3].y - diam / 2) {
-            window.open("../ccdm/sobre.html", "_self");
+            window.open("../sobre.html", "_self");
         }
     }
     for (let ya = 0; ya < width / espacamento + 1; ya++) {
