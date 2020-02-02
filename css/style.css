@@ -1,0 +1,7 @@
+* {
+    margin:0;
+}
+#background {
+    height:100vh;
+    object-fit:cover;
+}
