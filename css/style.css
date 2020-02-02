@@ -47,7 +47,10 @@ h1 {
     opacity: 100%;
 }
 #contactbox {
-    margin: 5% auto;
+    margin-top: 5%;
+    margin-bottom: 8%;
+    margin-right: auto;
+    margin-left: auto;
     width:30%;
 }
 #email {
@@ -75,13 +78,11 @@ h1 {
         left:16px;
     }
     #contactbox {
-        margin: 5% auto;
         width:60%;
     }
     #email {
         font-size: 3vw;
         color: white;
-        margin: 5px 5%;
     }
 }
 
