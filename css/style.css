@@ -118,11 +118,14 @@ h1 {
     }
     h1 {
         margin-top: 15%;
+<<<<<<< HEAD
     }
     .box.two {
         width:calc(100% - 40px);
         height:calc(100% - 40px);
         top:20px;
         left:20px;
+=======
+>>>>>>> 2672abb165012c16c4fc3dfc359281cfa4928444
     }
 }
