@@ -125,6 +125,9 @@ h1 {
         top:16px;
         left:16px;
     }
+    .icon {
+        margin-bottom: 0;
+    }
     #contactbox {
         margin: 5% auto;
         width:60%;
