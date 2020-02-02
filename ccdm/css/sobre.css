@@ -1,0 +1,58 @@
+#botaosobre>rect {
+    fill:black;
+}
+#botaosobre>text {
+    fill: white;
+}
+#botaosobresmall>text {
+    fill: grey;
+}
+
+main {
+    margin: 50px auto;
+    width:80%;
+}
+.imagem {
+    float:left;
+    width:100%;
+    height:auto;
+    margin-right:10%;
+    margin-bottom: 50px;
+}
+/* carousel */
+.carousel.slide {
+    float:left;
+    width:35%;
+    height:auto;
+    padding-left:5%;
+    padding-right:5%;
+    margin-right:10%;
+    margin-bottom: 50px;
+}
+main>p {
+    display:inline-block;
+    width:55%;
+}
+.carousel-control-prev-icon {
+    background-image: url("../media/carousel-left.svg");
+}
+.carousel-control-next-icon {
+    background-image: url("../media/carousel-right.svg");
+}
+/* ---- */
+@media screen and (max-width:768px) {
+    .imagem {
+        width:100%;
+        height:auto;
+    }
+    main>p {
+        width:100%;
+    }
+    .carousel.slide {
+        margin-right:auto;
+        margin-left: auto;
+        width:100%;
+        padding-left:15%;
+        padding-right:15%;
+    }
+}
