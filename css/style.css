@@ -62,13 +62,12 @@ h1 {
 }
 
 @media screen and (max-width: 768px) {
-    .box.one {
-        top:30%;
-        left:10%;
-    }
     h1 {
-        margin-top: 15%;
-        font-size: 14vw;
+        margin-top: 2%;
+        font-size: 20vw;
+    }
+    .box.one {
+        width:90%;
     }
     .box.two {
         margin-top: 20px;
