@@ -117,6 +117,12 @@ h1 {
         left:10%;
     }
     h1 {
-        margin-top: 20%;
+        margin-top: 15%;
+    }
+    .box.two {
+        width:calc(100% - 40px);
+        height:calc(100% - 40px);
+        top:20px;
+        left:20px;
     }
 }
