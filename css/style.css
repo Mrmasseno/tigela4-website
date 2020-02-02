@@ -1,5 +1,6 @@
 * {
     margin:0;
+    object-fit: contain;
 }
 body {
     width:100vw;
@@ -96,7 +97,7 @@ h1 {
         width:50%;
     }
     #email {
-        font-size: 2.7vw;
+        font-size: 2.3vw;
         color: white;
         margin: 0.1% 5%;
     }
