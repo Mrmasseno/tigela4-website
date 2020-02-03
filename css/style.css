@@ -1,0 +1,86 @@
+* {
+    margin:0;
+    object-fit: contain;
+}
+body {
+    width:100vw;
+    height:100vh;
+    background: url("../media/background.png") no-repeat;
+    background-size: cover;
+    display:table;
+}
+main {
+    display: table-cell;
+    vertical-align: middle;
+}
+.box {
+    background-color: black;
+    border: 4px solid white;
+    margin: auto auto;
+}
+.box.one {
+    width:80%;
+}
+.box.two {
+    margin-top: 40px;
+    margin-bottom:40px;
+    width:calc(100% - 80px);
+}
+h1 {
+    font-family: Rockwell, sans-serif;
+    font-size: 12vw;
+    font-style: italic;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 10%;
+    color: white;
+}
+.icon {
+    width:20%;
+    height:auto;
+    margin: auto 5%;
+}
+.icon:hover {
+    opacity: 70%;
+}
+.icon:active {
+    opacity: 100%;
+}
+#contactbox {
+    margin-top: 5%;
+    margin-bottom: 8%;
+    margin-right: auto;
+    margin-left: auto;
+    width:30%;
+}
+#email {
+    font-family: Montserrat, sans-serif;
+    font-weight: 100;
+    font-size: 1.37vw;
+    color: white;
+    margin: 4% 5%;
+}
+
+@media screen and (max-width: 768px) {
+    h1 {
+        font-size: 20vw;
+    }
+    .box.one {
+        width:90%;
+    }
+    .box.two {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        width:calc(100% - 40px);
+        top:16px;
+        left:16px;
+    }
+    #contactbox {
+        width:60%;
+    }
+    #email {
+        font-size: 3.05vw;
+        color: white;
+    }
+}
+
