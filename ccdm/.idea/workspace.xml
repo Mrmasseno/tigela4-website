@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5e46221-33b6-460b-aced-adf5d0dcbd67" name="Default Changelist" comment="" />
+    <list default="true" id="cdf89488-5c59-4c6e-94b0-bc9b7f8c6b1a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,9 +14,10 @@
     </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1XHIB4yZLF0yExsRhLWgndU84Wf" />
+  <component name="ProjectId" id="1XJIg10VNdDt9jLB5aWH9HrJ1tm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -38,14 +39,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a5e46221-33b6-460b-aced-adf5d0dcbd67" name="Default Changelist" comment="" />
-      <created>1580696454482</created>
+      <changelist id="cdf89488-5c59-4c6e-94b0-bc9b7f8c6b1a" name="Default Changelist" comment="" />
+      <created>1580757877768</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1580696454482</updated>
-      <workItem from="1580696455717" duration="300000" />
-      <workItem from="1580697141869" duration="50000" />
-      <workItem from="1580702929553" duration="27000" />
+      <updated>1580757877768</updated>
+      <workItem from="1580757878965" duration="230000" />
     </task>
     <servers />
   </component>
@@ -57,9 +56,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
