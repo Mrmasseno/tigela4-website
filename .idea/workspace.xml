@@ -18,8 +18,10 @@
   </component>
   <component name="ProjectId" id="1XHIB4yZLF0yExsRhLWgndU84Wf" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -47,6 +49,7 @@
       <workItem from="1580697141869" duration="50000" />
       <workItem from="1580702929553" duration="27000" />
       <workItem from="1580770054799" duration="104000" />
+      <workItem from="1582116823319" duration="263000" />
     </task>
     <servers />
   </component>
