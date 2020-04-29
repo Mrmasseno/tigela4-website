@@ -9,10 +9,3 @@ img {
 #homelink {
     width:100%;
 }
-body::-webkit-scrollbar {
-    display: none;
-}
-
-body {
-    -ms-overflow-style: none;
-}
