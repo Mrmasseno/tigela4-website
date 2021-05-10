@@ -8,6 +8,7 @@ body {
     background: url("../media/background.gif ") no-repeat;
     background-size: cover;
     display:table;
+    overflow: hidden;
 }
 main {
     display: table-cell;
@@ -28,7 +29,7 @@ main {
 }
 h1 {
     font-family: Poppins, sans-serif;
-    font-size: 12vw;
+    font-size: 10vw;
     font-weight: 500;
     text-align: center;
     margin-top: 5%;
@@ -51,7 +52,7 @@ h1 {
 }
 #icons {
     margin: auto;
-    padding-left: 1.15vw;
+    padding-left: 1.1vw;
 }
 
 #email {
