@@ -5,7 +5,7 @@
 body {
     width:100vw;
     height:100vh;
-    background: url("../media/background.gif ") no-repeat;
+    background:  url("../media/background.gif"), url("../media/background.png") no-repeat;
     background-size: cover;
     display:table;
     overflow: hidden;
