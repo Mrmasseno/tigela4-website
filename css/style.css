@@ -27,16 +27,15 @@ main {
     width:calc(100% - 80px);
 }
 h1 {
-    font-family: Rockwell, sans-serif;
+    font-family: Poppins, sans-serif;
     font-size: 12vw;
-    font-style: italic;
-    font-weight: normal;
+    font-weight: 500;
     text-align: center;
     margin-top: 5%;
     color: white;
 }
 .icon {
-    width:20%;
+    width:21.2%;
     height:auto;
     margin: auto 5%;
 }
@@ -47,23 +46,26 @@ h1 {
     opacity: 100%;
 }
 #contactbox {
-    margin-top: 5%;
-    margin-bottom: 8%;
-    margin-right: auto;
-    margin-left: auto;
+    margin: 5% auto 8% auto;
     width:30%;
 }
+#icons {
+    margin: auto;
+    padding-left: 1.15vw;
+}
+
 #email {
-    font-family: Montserrat, sans-serif;
-    font-weight: 100;
+    font-family: Poppins, sans-serif;
+    font-weight: 300;
     font-size: 1.5vw;
     color: white;
     margin: 4% 5%;
+    text-align: center;
 }
 
 @media screen and (max-width: 768px) {
     h1 {
-        font-size: 20vw;
+        font-size: 18vw;
     }
     .box.one {
         width:90%;
@@ -81,6 +83,9 @@ h1 {
     #email {
         font-size: 3.35vw;
         color: white;
+    }
+    #icons {
+        padding-left: 1.9vw;
     }
 }
 
